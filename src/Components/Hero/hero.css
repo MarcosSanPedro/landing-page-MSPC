@@ -1,0 +1,31 @@
+.heroContainer{
+    width: 600px;
+    position: relative;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.restaurantPicture{
+    width: 100%;
+    height: 400px;
+    
+}
+
+#order{
+    display: inline;
+    padding: 20px;
+    position: absolute;
+    top: 75%;
+    left: 42%;
+    background-color: brown;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+#order:hover{
+    background-color: black;
+    padding: 25px;
+    transition: 0.5s;
+}
+ 

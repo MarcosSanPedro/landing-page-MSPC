@@ -1,0 +1,19 @@
+.pizzasContainer{
+    width: 230px;
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 8px 10px;
+    background-color: brown;
+    color: aliceblue;
+    
+}
+
+.pizzaKind{
+    font-size: 1.3rem;
+    margin-bottom: 8px;
+}
+
+.pizzaIngredients{
+    margin-bottom: 20px;
+
+}

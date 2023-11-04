@@ -1,0 +1,20 @@
+.infoContainer1{
+    font-size: 1.2rem;
+    margin: auto;
+    margin-top: 20px;
+    padding: 3px 10px ;
+    width: 85%;
+    
+}
+
+.infoContainer2{
+    font-size: 1.2rem;
+    padding: 2px 10px 30px;
+    width: 85%;
+    margin: auto;
+    
+}
+
+.ptag{
+    margin-top: 4px;
+}
